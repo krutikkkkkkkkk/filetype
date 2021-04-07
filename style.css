@@ -29,3 +29,6 @@ input[type="text"] {
 input[type="submit"] {
     margin-left: -10px;;
 } 
+footer {
+margin:50px;
+}
